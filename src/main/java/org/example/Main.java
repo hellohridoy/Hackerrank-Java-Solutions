@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class Main {
+public class HackerrankIfelseSolutions {
     public static void main(String[] args) {
        Scanner input = new Scanner(System.in);
        int n = input.nextInt();
